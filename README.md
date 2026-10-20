@@ -38,3 +38,14 @@ T erraform validation succeeded. AWS authentication and full Terraform-managed p
 
 ## Author
 Omkar Ghorpade
+
+## Student Details
+Name: Om Laware
+PRN: 2125UDSM1022
+Department: AIDS - 2nd Year
+GitHub: omlaware07
+Environment: macOS
+
+## Project Attribution
+Based on the original student-record-devops-platform
+repository by om-ghorpadeai.
