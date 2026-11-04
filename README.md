@@ -37,7 +37,7 @@ T erraform validation succeeded. AWS authentication and full Terraform-managed p
 - Restrict SSH access to trusted IP addresses.
 
 ## Author
-Omkar Ghorpade
+Om Laware
 
 ## Student Details
 Name: Om Laware
@@ -45,7 +45,3 @@ PRN: 2125UDSM1022
 Department: AIDS - 2nd Year
 GitHub: omlaware07
 Environment: macOS
-
-## Project Attribution
-Based on the original student-record-devops-platform
-repository by om-ghorpadeai.

@@ -3,7 +3,7 @@ from flask import Flask, jsonify, request
 app = Flask(__name__)
 
 students = [
-    {"id": 1, "name": "Omkar", "course": "Computer Engineering", "marks": 85}
+    {"id": 1, "name": "Om Laware", "course": "Computer Engineering", "marks": 85}
 ]
 
 @app.route("/")
