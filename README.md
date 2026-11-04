@@ -1,3 +1,4 @@
+<!-- Maintained by Om Laware -->
 # Student Record and Academic Management Platform
 
 DevOps Mini Project 4 — AWS, Terraform, Ansible and Docker

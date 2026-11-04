@@ -1,3 +1,4 @@
+# Maintained by Om Laware
 ---
 - name: Configure Student Management Platform
   hosts: localhost

@@ -1,3 +1,4 @@
+# Maintained by Om Laware
 output "aws_region" {
   description = "AWS region used by the project"
   value       = var.aws_region
